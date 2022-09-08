@@ -1,6 +1,6 @@
 # Python-api-challenge
 
-This is my first project that every utilizes an API. In both jupyter notebooks I pull from https://openweathermap.org/ and Google's Maps API to organize and interpret various different types of data! Some information pulled and analyzed: Global weather data, Global Hotel data
+This is my first project that ever utilizes an API. In both jupyter notebooks I pull from https://openweathermap.org/ and Google's Maps API to organize and interpret various different types of data! Some information pulled and analyzed: Global weather data, Global Hotel data
 
 **concepts utilized on the project:** <br />
 making requests to API's to retrieve data inorder to build dataframes <br />
